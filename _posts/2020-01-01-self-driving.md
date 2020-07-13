@@ -1,4 +1,5 @@
 ---
+key: 2020-01-01-self-driving
 title: Self-driving 自动驾驶 자율주행
 tags: Self-driving AI Autopilot
 ---
