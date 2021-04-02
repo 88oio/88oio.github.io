@@ -147,7 +147,7 @@ analytics:
   ## Google Analytics
   google:
     tracking_id : G-XTS6BQXPMW # Google Analytics id for the site
-    anonymize_ip: true # Anonymize IP tracking for Analytics
+    anonymize_ip: false # Anonymize IP tracking for Analytics
 
 ## => Build
 ##############################
